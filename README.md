@@ -13,7 +13,7 @@ Heute habe ich den Tutorial für APIs mit C# gesehen, das ging 1h und 30min. Um 
 
 ## 17.01.2025
 
-- [ ] LB Modul 450 Projekt m mit C# erstellen und fertig programmieren.
+- [x] LB Modul 450 Projekt m mit C# erstellen und fertig programmieren.
 - [ ] LB Modul 450 Aufgabe 1 machen
-- [ ] Mocking-Klassen repetieren und Aufgabe 2 im LN 450 machen
-- [ ] Injektion Klassen repetieren und Aufgabe 3 im LB 450 lösen
+- [x] Mocking-Klassen repetieren und Aufgabe 2 im LN 450 machen
+- [x] Injektion Klassen repetieren und Aufgabe 3 im LB 450 lösen
