@@ -28,3 +28,8 @@ Heute habe ich an dem LB450 gearbeitet, weil wir sehr viel zu Tun hatten in den 
 - [x] Neues Repo auf GitLab erstellen für Modul 295.
 
 Heute habe ich zuerst die Unit Tests für das LB450 geschrieben und ausgeführt, anschließend habe ich ein CodeReview durchgeführt, um die Struktur und Qualität meines C#-Codes zu verbessern. Danach habe ich in Visual Studio ein neues API-Projekt erstellt und zuletzt habe ich ein neues GitLab-Repository für das Modul 295 eingerichtet.
+
+## 31.01.2025
+
+- [ ] API Projekt mit SQL verbinden und Daten ins SQL-Datenbank hinzufügen
+- [ ] API CRUD Operationen mit logig programmieren.
