@@ -24,5 +24,7 @@ Heute habe ich an dem LB450 gearbeitet, weil wir sehr viel zu Tun hatten in den 
 
 - [x] LB Modul 450 Unittest erstellen und testen
 - [x] LB Modul 450 CodeReview machen
-- [ ] In Visual Studio neues API Projekt erstellen
+- [x] In Visual Studio neues API Projekt erstellen
 - [x] Neues Repo auf GitLab erstellen für Modul 295.
+
+Heute habe ich zuerst die Unit Tests für das LB450 geschrieben und ausgeführt, anschließend habe ich ein CodeReview durchgeführt, um die Struktur und Qualität meines C#-Codes zu verbessern. Danach habe ich in Visual Studio ein neues API-Projekt erstellt und zuletzt habe ich ein neues GitLab-Repository für das Modul 295 eingerichtet.
