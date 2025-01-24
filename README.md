@@ -19,3 +19,10 @@ Heute habe ich den Tutorial für APIs mit C# gesehen, das ging 1h und 30min. Um 
 - [x] Injektion Klassen repetieren und Aufgabe 3 im LB 450 lösen
 
 Heute habe ich an dem LB450 gearbeitet, weil wir sehr viel zu Tun hatten in den letzten Wochen und ich nicht vorangekommen bin. Als Erstes habe ich ein UML Klassendiagramm zu meinem Projekt erstellt, mit Mocking-Klassen und Interfaces. Danach habe ich angefangen alles in c# zu implementieren und bin ziemlich weit gekommen.
+
+## 24.01.2025
+
+- [x] LB Modul 450 Unittest erstellen und testen
+- [x] LB Modul 450 CodeReview machen
+- [ ] In Visual Studio neues API Projekt erstellen
+- [x] Neues Repo auf GitLab erstellen für Modul 295.
